@@ -1,5 +1,5 @@
-git config --global user.name "sarathkumar"
-git config --global user.email "sarathkumar@gmail.com"
+git config --global user.name "Logeshwaran-g01"
+git config --global user.email "lokeshdharan1996@gmail.com"
 
 
 git init
