@@ -1,0 +1,50 @@
+git config --global user.name "sarathkumar"
+git config --global user.email "sarathkumar@gmail.com"
+
+
+git init
+git status
+git add file_name
+git commit -m "message"
+git remote add origin <url>
+git push [git push --set-upstream origin master]
+git clone <url>
+git add file1 file2
+git add .
+git add folder_name
+git checkout file_name
+git log
+git log --since="3 days ago"
+git diff file_name
+git pull
+after resolving the merge conflict -> git add file_name 
+git rebase --continue
+git checkout branch_name
+
+
+
+
+https://guvi-jat-apr17.atlassian.net/browse/GJ-74
+
+
+
+
+Q1 Write a many test case as you can for given scenario in the excell. The excel sheet should include the following columns
+
+Q2 Write a key point on Test Scenarios, Test Case, Test Startegy and plan Test Summary Report.
+
+
+Website Link:
+ https://in.bookmyshow.com
+
+
+1) Test Scenarios ID(Requriment Matrix/User Story): A unique identifier for each test case. For EX TS_1, TS_2......so on
+2)  Test Scenario: A brief  description of the test case.
+3) Test Case ID: A unique ID fo testcase Forex: TC_1, TC_2...TCn
+4) Test Steps: A detailed list of the steps to be followed to execute the test case.
+5) Input: The input of each steps taken by user.
+6) Expected Results: The expected outcome of each dtep in the test case
+7) Actul Results: The actual outcome of each step in the test case
+8) pass/fail : Whether the testcase passed or failed
+9) Test Case Complexity
+10) Test Case Severity
